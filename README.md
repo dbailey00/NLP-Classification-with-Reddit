@@ -1,4 +1,4 @@
-# Project 3 - NLP Classification with Reddit Posts
+# NLP Classification with Reddit Posts
 
 ## Problem Statement
 - Using Reddit API to collect posts from two subreddits (r/Rockets and r/NBA).
